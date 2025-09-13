@@ -4,5 +4,5 @@ pt-BR/en
 - 📌 São Luís, Maranhão, Brasil
 - 🌱 14 yo
 - 💡 I’m currently learning JavaScript, English and how to be a genuinely competent programmer 
-- ⚡ Fun fact: I love cows
+- ⚡ Fun fact: I love cows and Star Wars
 - ✨ curso.dev
